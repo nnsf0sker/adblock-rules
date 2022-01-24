@@ -1,0 +1,113 @@
+! 2022-01-11 https://www.avito.ru
+www.avito.ru##.index-nav-link-muv1u
+www.avito.ru##div.items-vip-KXPvy
+www.avito.ru##.cvr-container
+www.avito.ru##.category-map
+www.avito.ru##.item-view-socials
+www.avito.ru##.icebreakers__wrapper_borderBottom
+www.avito.ru##div.styles-root-13fmo:nth-of-type(2) > .styles-root-2BPnG
+www.avito.ru##.col-12.layout-internal
+www.avito.ru##.js-seller-info-avatar.seller-info-avatar
+www.avito.ru##.subscription-buttons-buttons-wrapper-11wub
+www.avito.ru##.item-view-search-info-redesign
+www.avito.ru##.header-clearfix-kI6fL.header-nav-wQVeb.header-list-IUZFq
+www.avito.ru##.category-with-counters-root-P4gWf
+www.avito.ru##.styles-root-xnHRy
+www.avito.ru##.services-root-hgyuF
+www.avito.ru##.navbar-root-H9tUO
+www.avito.ru##div.item-actions-line:nth-of-type(1)
+www.avito.ru##.styles-root-2BPnG
+www.avito.ru##.recommended-sellers-gallery-root-NPDem
+www.avito.ru##.Sidebar-avatar-hDiYS
+www.avito.ru##.index-root-auOiW
+www.avito.ru##.mini-messenger-layout-238-R
+www.avito.ru##.index-navigation-__ciD
+www.avito.ru##.js-promo-sticky-container.index-side-Ae0Dq
+!www.avito.ru##.styles-list-M1e9B
+
+! 2022-01-11 https://www.avito.ru
+www.avito.ru##.styles-root-vOrMe
+www.avito.ru##.top-banner-root-nYP0D
+
+! 2022-01-11 https://youla.ru
+youla.ru###ph-wrapper
+youla.ru##.hlSXSH.sc-iOTrKq > .bcSPju.XqbgT.sc-fpIgQR.sc-hiSbYr
+youla.ru##.gbLkxI.sc-FPtgC
+youla.ru##.gbLTBm.sc-iqWXed
+youla.ru##.khKjrS.jSAFID.sc-gYhigD.sc-ksXhwv
+youla.ru##.kPcmsc.ffzZEk.sc-bmxPme.sc-bdfBwQ
+youla.ru##.kKDqOE.sc-eFDGhx
+youla.ru##li.ibJNvh.sc-fEpNni:nth-of-type(6)
+youla.ru##.fjOscw.sc-cvJHqN
+youla.ru##.eBVILm.sc-gTgzIj > .laquCT.iMIhtY.sc-cBNfnY.sc-jJEJSO.sc-iktFzd
+youla.ru##div.gIkyEe.sc-gvnAtk.eBQYvA.sc-dJrKvq:nth-of-type(2)
+youla.ru##div.gIkyEe.sc-gvnAtk.eBQYvA.sc-dJrKvq:nth-of-type(3)
+
+! 2022-01-11 https://www.youtube.com
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###footer > .ytd-guide-renderer.style-scope
+www.youtube.com###copyright
+www.youtube.com###secondary
+www.youtube.com##ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.ytd-menu-renderer.style-scope.dropdown-trigger
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###footer
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com###chips
+www.youtube.com###primary > .ytd-two-column-browse-results-renderer.style-scope
+www.youtube.com###author-thumbnail
+www.youtube.com##.ytd-video-owner-renderer.style-scope.yt-simple-endpoint
+
+! 2022-01-11 https://habr.com
+habr.com##.layout__row_footer
+habr.com##.column-wrapper_bordered
+habr.com##.bmenu_inner
+habr.com##.content-list__item_news-block
+habr.com###effect
+habr.com##.promo-block
+habr.com##.tm-editoral-subscription
+habr.com##.js-ad_sticky_comments
+habr.com###effect-sidebar
+habr.com##.column-wrapper__last
+habr.com##.post-stats__share
+habr.com###company-links
+habr.com###apps
+habr.com##div#widget
+habr.com##.companies-rating__avatar
+habr.com###most-reading
+habr.com##.sidebar
+
+! 2022-01-11 https://vk.com
+vk.com##.narrow_column_wrap
+
+! 2022-01-11 https://mail.ru
+mail.ru##.svelte-12pvoek.i-link-no-deco.horoscope
+mail.ru##.rates_three.svelte-6tagq7.rates
+mail.ru##.svelte-a35wq4.grid_newscol
+mail.ru##.svelte-13j4pz9.tabs
+mail.ru###search\:example
+mail.ru##a.svelte-1dxh3mc.ph-project
+mail.ru##div.svelte-1dxh3mc.ph-project
+mail.ru##.svelte-1dxh3mc.ph-vertical-line
+mail.ru##.svelte-byes78.search__top
+
+! 2022-01-11 https://yandex.ru
+yandex.ru##._size_big.feed__item
+yandex.ru###wd-wrapper-_stocks-1
+yandex.ru###wd-wrapper-_topnews-1
+yandex.ru##li.services-new__list-item:nth-of-type(2)
+yandex.ru##li.services-new__list-item:nth-of-type(3)
+yandex.ru##li.services-new__list-item:nth-of-type(4)
+yandex.ru##li.services-new__list-item:nth-of-type(6)
+yandex.ru##li.services-new__list-item:nth-of-type(9)
+yandex.ru##.services-new__more
+yandex.ru##.desk-notif-card__link
+yandex.ru##.market-cart__icon
+yandex.ru##.desk-notif-card_js_inited.i-bem.desk-notif-card_icon-align_left.desk-notif-card_bg_default.desk-notif-card_minified_yes.desk-notif-card_actions_yes.desk-notif-card_details_no.desk-notif-card_icon_yes.desk-notif-card_plus-wallet_yes.desk-notif-card
+
+! 2022-01-11 https://octavius.mail.ru
+octavius.mail.ru##.widget_list
+octavius.mail.ru##.thread__kaspersky
+octavius.mail.ru##.js-promo-id_letter-head-calls-button.letter__flag
+octavius.mail.ru##.js-promo-id_letter-head-calendar-button.letter__flag

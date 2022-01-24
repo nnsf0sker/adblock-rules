@@ -1,0 +1,107 @@
+! Блок с историями на странице ленты
+vk.com##.stories_feed_wrap
+
+! Блок "Что у Вас нового?" на странице с лентой
+vk.com##.feed_post_field_wrap
+
+! Скрыть ленту (не стенки людей и групп)
+vk.com###feed_wall
+
+! Пункт "Новости" в меню
+vk.com###l_nwsf
+
+! Блок с ссылками о компании "ВКонтакте"
+vk.com##.left_menu_nav_wrap
+
+! Надпись "Будьте в контакте с теми, кого нет у вас в друзьях" (видна, если профиль закрыт)
+vk.com##.PageActionsClosedProfile
+
+! Пункты "Статистика страницы", "Воспоминания" и "Денежные переводы"
+vk.com##.page_actions_expanded
+
+! Ссылка и логотив ВКонтакте
+vk.com##.HeaderNav__item--logo.HeaderNav__item
+
+! Значок уведомлений сверху страницы
+vk.com##.TopNavBtn__notify.TopNavBtn.top_notify_btn
+
+! Блок "Что у Вас нового?" на своей странице
+vk.com###page_block_submit_post
+
+! На странице группы блок "Ссылки" 
+vk.com###public_links
+
+! На странице группы блок "Статьи"
+vk.com###public_articles
+
+! На странице группы блок с действиями (Написать сообщение, Рекомендовать, Включить уведомления, Рассказать друзьям, Разрешить сообщения, Сохранить в закладках, Похожие сообщества, Пожаловаться)
+vk.com##.page_action_menu_groups
+
+! На странице группы блок "Подписчики"
+vk.com###public_followers
+
+! На странице группы блок "Поддержать автора"
+vk.com###groups_donut_module
+
+! На странице группы блок "Беседы"
+vk.com###groups_chats
+
+! На странице группы блок "Видеозаписи"
+vk.com###public_videos
+
+! На странице группы блок "Альбомы"
+vk.com###public_albums
+
+! На странице группы блок "Аудиозаписи"
+vk.com###public_audios
+
+! На странице группы блок "Контакты"
+vk.com###public_contacts
+
+! На странице группы блок "Рассылки"
+vk.com###compact_list_app_widget
+
+! На странице группы блок "Товары"
+vk.com###public_market
+
+! На странице группы блок "Изображения"
+vk.com###profile_photos_module
+
+! На странице группы блок "Загрузить аудиозапись"
+vk.com##.page_module_upload
+
+! На странице группы блок "Участники"
+vk.com###group_followers
+
+! На странице группы блок "Фотографии"
+vk.com###group_albums
+
+! На странице группы блок "Видео"
+vk.com###group_videos
+
+! На странице группы блок "Обсуждения"
+vk.com###public_topics
+
+! На странице группы блок "Клип"
+vk.com###public_clips
+
+! На странице группы кнопка "Подписаться на рассылку"
+vk.com##.group_subscribe_channel_block
+
+! На странице группы кнопка "Истории"
+vk.com##.stories_groups_block_stories
+
+! На странице мероприятия "Возможные участники"
+vk.com###group_unsure
+
+! На странице мероприятия "Ссылки"
+vk.com###group_links
+
+! На странице мероприятия "Статьи"
+vk.com###group_articles
+
+! На странице группы скрыть аватар
+vk.com##.page_avatar_img
+
+! Блок ссылки внизу поста
+vk.com##.page_media_wrap.thumbed_link
